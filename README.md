@@ -1,9 +1,17 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 ###  Date: 22-04-2026
+### Name: Aravindan D
+### Reg no: 212223240012
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
 /temperature.
+
+# REQUIREMENTS:
+```
+1.DATASET: TESLA STOCK PRICE
+2.TECHNOLOGY USED: GOOGLE COLLAB
+```
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
